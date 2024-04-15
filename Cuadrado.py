@@ -1,0 +1,6 @@
+lado1= float(input("Ingrese la medida de uno de los lados del cuadrado"))
+lado2 =(lado1)
+lado3=(lado1)
+lado4=(lado1)
+peri=(lado1+lado2+lado3+lado4)
+print ("el area de el cuadrado es igual a:",peri)
